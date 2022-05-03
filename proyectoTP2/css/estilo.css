@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(to top, #F9A805, white);
+}
+h1 {color: black ;
+  background-image: url(file:///C:/Users/Gavo/Documents/proyectoTP2/imagenes/montana.JPG);
+  height:707px;
+  width:1920px;
+  text-align: center;
+  font-size: 190px;
+  margin-top: 0%;
+  text-decoration: underline;
+  font-style: oblique;
+}
+h2 {
+  text-decoration: underline;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0px auto;
+}
+h3 {
+  text-decoration: underline;
+  color: blue
+}
